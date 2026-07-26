@@ -102,14 +102,6 @@ No central authority. Real-time on-chain results. Cryptographic vote integrity e
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BelalIoT21&show_icons=true&theme=dark&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=ffffff&border_color=F97316&border_radius=10&hide_border=false&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelalIoT21&layout=compact&theme=dark&bg_color=0d1117&title_color=F97316&text_color=ffffff&border_color=F97316&border_radius=10&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=BelalIoT21&theme=dark&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=F97316&border_radius=10" />
 
 </div>
